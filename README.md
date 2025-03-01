@@ -1,7 +1,6 @@
 # Image Resizer 1080P
 
 <div align="center">
-  <img src="images/image.png" alt="Application Screenshot" width="70%">
   <p><em>Professional Image Processing Suite</em></p>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

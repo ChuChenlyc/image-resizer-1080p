@@ -1,7 +1,6 @@
 # 图像调整器 1080P
 
 <div align="center">
-  <img src="images/image.png" alt="应用截图" width="70%">
   <p><em>专业图像处理套件</em></p>
   
   [![许可证: MIT](https://img.shields.io/badge/许可证-MIT-blue.svg)](LICENSE)
@@ -59,9 +58,6 @@
 
 ## 操作指南
 
-<div align="center">
-  <img src="images/image.png" alt="应用界面" width="80%">
-</div>
 
 1. **选择源目录**：导航并选择包含目标图像的输入文件夹
 2. **配置输出参数**（可选）：指定自定义输出目标或接受默认的"resized"子目录
