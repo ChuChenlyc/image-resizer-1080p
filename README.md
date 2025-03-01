@@ -59,10 +59,6 @@ Image Resizer 1080P is an enterprise-grade image processing utility designed for
 
 ## Operational Guide
 
-<div align="center">
-  <img src="images/image.png" alt="Application Interface" width="80%">
-</div>
-
 1. **Select Source Directory**: Navigate to and select the input folder containing target images
 2. **Configure Output Parameters** (Optional): Specify a custom output destination or accept the default "resized" subdirectory
 3. **Initiate Conversion Process**: Execute the transformation pipeline
